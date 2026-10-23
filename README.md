@@ -4,7 +4,9 @@
 
 A portable agent skill for topic-driven, code-rendered films: deterministic HTML/Canvas/SVG/Three.js visuals, Python-synthesized audio, beat/frame timing, contact-sheet review and verified MP4 delivery. No image, video or music generation model is required.
 
-![有无相生 · 代码渲染示例](docs/poster.jpg)
+![赛博故障 · 代码渲染风格展示](docs/poster-cyber.jpg)
+
+海报截自此前制作的《Opus 5.5 视频风格展示》26.2 秒处，保留完整 1920×1080 视频画面。图中文字属于该示例影片；仓库内完整可运行示例为下文的《有无相生》。
 
 ## 安装与使用 / Install
 
