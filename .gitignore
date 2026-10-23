@@ -1,0 +1,16 @@
+.venv/
+venv/
+.browsers/
+.tmp/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+output/
+preview/
+*.mp4
+*.wav
+*.zip
+.DS_Store
+Thumbs.db
